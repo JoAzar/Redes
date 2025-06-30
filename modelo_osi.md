@@ -33,23 +33,23 @@ El modelo se diseñó para permitir que dos sistemas independientes se comunique
 
 ## Capa física
 
-- - Se refiere al medio de comunicación físico y a las tecnologías para transmitir datos a través de ese medio
+- Se refiere al medio de comunicación físico y a las tecnologías para transmitir datos a través de ese medio
 
--- La comunicación de datos es la transferencia de señales digitales y electrónicas a través de varios canales físicos, como cables de fibra óptica, NFC, bluetooth, cableado de cobre y aire
+- La comunicación de datos es la transferencia de señales digitales y electrónicas a través de varios canales físicos, como cables de fibra óptica, NFC, bluetooth, cableado de cobre y aire
 
 ## Capa de enlace de datos
 
-- - La capa de enlace de datos se refiere a las tecnologías utilizadas para conectar dos máquinas a través de una red donde la capa física ya existe
+- La capa de enlace de datos se refiere a las tecnologías utilizadas para conectar dos máquinas a través de una red donde la capa física ya existe
 
-- - Ethernet es un ejemplo de un estándar a este nivel
+- Ethernet es un ejemplo de un estándar a este nivel
 
-- - La capa de enlace de datos a menudo se divide en dos subcapas: la capa de control de acceso a los medios (MAC) y la capa de control de enlace lógico (LLC)
+- La capa de enlace de datos a menudo se divide en dos subcapas: la capa de control de acceso a los medios (MAC) y la capa de control de enlace lógico (LLC)
 
 ## Capa de red
 
-- - La capa de red se ocupa de conceptos como el enrutamiento, el reenvío y el direccionamiento a través de una red dispersa o de múltiples redes conectadas de nodos o máquinas, gestionar el control de flujo
+- La capa de red se ocupa de conceptos como el enrutamiento, el reenvío y el direccionamiento a través de una red dispersa o de múltiples redes conectadas de nodos o máquinas, gestionar el control de flujo
 
-- - El Protocolo de Internet IPv4 y el IPv6 se utilizan como protocolos de capa de red principales
+- El Protocolo de Internet IPv4 y el IPv6 se utilizan como protocolos de capa de red principales
 
 ## Capa de transporte
 
