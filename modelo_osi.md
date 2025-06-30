@@ -88,6 +88,14 @@ Ejemplos
 1. Los navegadores pueden comunicarse mediante el Protocolo seguro de transferencia de hipertexto (HTTPS)
 2. Los clientes de correo electrónico y HTTP pueden comunicarse mediante POP3 (Protocolo de oficina de correo versión 3) y SMTP (Protocolo simple de transferencia de correo)
 
+## ¿Cómo se comunica el modelo OSI?
+
+1. La capa de aplicación del remitente transfiere la comunicación de datos a la capa inferior
+2. Cada capa añade sus propios encabezados y direccionamientos a los datos antes de transmitirlos
+3. La comunicación de datos desciende por las capas hasta que finalmente se transmite a través del medio físico
+4. En el otro extremo del medio, cada capa procesa los datos de acuerdo con los encabezados relevantes en ese nivel
+5. En el extremo receptor, los datos suben por la capa y se desempaquetan gradualmente hasta que la aplicación del otro extremo los recibe
+
 ---
 
 ## A TENER EN CUENTA, No todos los sistemas que utilizan el modelo OSI implementan todas las capas
