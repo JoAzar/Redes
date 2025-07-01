@@ -6,3 +6,4 @@
 
 - [ ] Modelo OSI
 - [ ] Modelo TCP/IP
+- [ ] Codificación de Huffman
